@@ -1,0 +1,6 @@
+{
+  "name": "Ahmed Dental Care",
+  "description": "Modern dental clinic and cosmetic dentistry center offering painless root canals, clear aligners, dental implants, whitening, and family dental care. Book via WhatsApp at +92 308 1991427.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
